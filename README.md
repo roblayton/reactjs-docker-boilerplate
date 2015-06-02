@@ -1,1 +1,1 @@
-# reactjs-basic-boilerplate
+# reactjs-docker-boilerplate
