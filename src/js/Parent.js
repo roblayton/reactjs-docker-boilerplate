@@ -1,4 +1,5 @@
-var Child = require('./Child')
+var React = require('react'),
+    Child = require('./Child');
 
 var Parent = React.createClass({
   render: function() {
